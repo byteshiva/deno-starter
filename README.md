@@ -5,6 +5,6 @@ Example of running [deno](https://deno.land/) with [Gitpod](https://www.gitpod.i
 
 **Start Instantly** ↓
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mouse484/gitpod-deno)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/byteshiva/deno-starter)
 
 
